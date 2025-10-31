@@ -1,7 +1,7 @@
 ---
 title: "Programa de Mestrado em Economia"
 subtitle: "Oficina"
-author: "Fábio Rocha"
+author: "Fábio Rocha Vianna"
 institute: "UFABC — Programa de Pós-Graduação em Economia"
 format: 
   revealjs:
