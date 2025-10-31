@@ -1,0 +1,230 @@
+---
+title: "Programa de Mestrado em Economia"
+subtitle: "Oficina"
+author: "Fábio Rocha"
+institute: "UFABC — Programa de Pós-Graduação em Economia"
+format: 
+  revealjs:
+    footer: "Fábio Rocha - fabio.vianna@ufabc.edu.br"
+    incremental: true   
+    theme: simple
+    transition: slide
+    highlight-style: github
+---
+
+## Bem-vindos à oficina!
+- Hoje falaremos sobre o **Programa de Mestrado em Economia da UFABC**.  
+- Vamos compreender o que é **Economia**, suas **áreas de atuação e pesquisa**, e como é a formação em nível de **pós-graduação**.  
+- Também contarei um pouco sobre **minha trajetória** e como a pesquisa pode contribuir para **o desenvolvimento social e políticas públicas**.  
+
+---
+
+## Sobre mim {background-color="#ffa800"}
+
+- **Fábio Rocha**  
+- Economista pela **(UFOP)**, Filosofo **(UFOP)** Mestrando em Economia **UFABC**  
+- Analista de **Monitoramento e Avaliação de Programas** no **Instituto Unibanco**
+- Atuei em secretarias municipais de **Saúde** e **Desenvolvimento Econômico**  
+- Criador do canal [Rocha Data in R](https://www.youtube.com/@RochaDatainR), dedicado ao ensino de **análise de dados públicos com R**
+
+---
+
+## O que é Economia?
+
+- A Economia é a ciência que estuda **como indivíduos, empresas e governos tomam decisões** diante da escassez de recursos.  
+- Analisa **produção, distribuição e consumo** de bens e serviços.  
+- Busca compreender e propor **soluções para problemas sociais, ambientais e produtivos**.  
+
+> Em resumo: a economia ajuda a entender **como o mundo funciona e como pode funcionar melhor**.
+
+---
+
+## Grandes áreas da Economia
+
+- **Microeconomia**: comportamento de indivíduos, famílias e empresas.  
+- **Macroeconomia**: crescimento, inflação, juros, câmbio, desemprego.  
+- **Econometria e Métodos Quantitativos**: uso de dados e modelos para testar hipóteses.  
+- **História Econômica e Desenvolvimento**: trajetória e desafios estruturais do país.  
+- **Economia Aplicada**: análise de políticas públicas e problemas sociais concretos.
+
+---
+
+## Campos de investigação contemporâneos
+
+- **Economia do Crime**: causas e efeitos da criminalidade.  
+- **Economia da Saúde**: avaliação de políticas e eficiência do sistema.  
+- **Economia da Educação**: impacto de programas sobre aprendizagem e acesso.  
+- **Economia do Gênero e da Família**: desigualdades e papéis sociais.  
+- **Economia da Primeira Infância**: efeitos de políticas no desenvolvimento infantil.  
+
+---
+
+- **Economia do Trabalho**: salários, emprego, mobilidade social e desigualdade.  
+- **Políticas Públicas e Avaliação de Impacto**: medir o que funciona e por quê.  
+- **Teoria Econômica**: fundamentos e modelos que explicam o comportamento econômico.
+
+---
+
+## O Programa de Mestrado em Economia da UFABC
+
+- O **Programa de Pós-Graduação em Economia (PPGE-UFABC)** tem como missão formar **pesquisadores e profissionais capacitados** para atuar em universidades, órgãos públicos e setor privado.  
+- Ênfase em **rigor teórico, empírico e metodológico**, com forte componente de **econometria e microeconomia aplicada**.  
+- Corpo docente formado por professores com doutorado em instituições de excelência no Brasil e no exterior.  
+
+---
+
+## Linhas de Pesquisa
+
+O Mestrado em Economia da **UFABC** possui **uma única área de concentração: Economia**, organizada em **três linhas de pesquisa** principais:
+
+1. **Macroeconomia e Finanças**  
+2. **Microeconomia, Economia Social e da Inovação**  
+3. **História e Pensamento Econômico**
+
+Essas linhas refletem a crença do corpo docente na importância de uma **formação plural**, combinando rigor técnico com o **acesso a diferentes correntes do pensamento econômico**.  
+O programa mantém uma relação estreita entre ensino, pesquisa e a produção científica de seus professores.
+
+---
+
+## Macroeconomia e Finanças
+
+- Foca o estudo de **fenômenos macroeconômicos e financeiros**.  
+- Engloba temas como:
+  - **Dinâmica macroeconômica e crescimento econômico**  
+  - **Flutuações de curto prazo e ciclos econômicos**  
+  - **Finanças, sistemas bancários e crises financeiras**  
+  - **Organizações financeiras e política monetária**
+
+O objetivo é garantir ao aluno **formação técnica sólida** nas fronteiras do conhecimento, habilitando-o a **produzir pesquisa de ponta** sobre desafios regionais, nacionais e internacionais.
+
+A formação plural e interdisciplinar da UFABC oferece ao egresso uma **visão ampla da realidade econômica**, o que amplia suas possibilidades de atuação **no meio acadêmico e em instituições públicas ou privadas**.
+
+---
+
+## Microeconomia, Economia Social e da Inovação
+
+- Estuda o funcionamento de **mercados, agentes e políticas públicas** sob a ótica microeconômica.  
+- Aborda temas como:
+  - **Inovação e difusão tecnológica**  
+  - **Políticas industriais, ambientais e agrícolas**  
+  - **Desigualdade de renda e pobreza**  
+  - **Mercado de trabalho e políticas redistributivas**  
+  - **Empreendedorismo e economia social**
+
+A linha combina **fundamentos teóricos de microeconomia** com **ferramentas de estatística e econometria aplicada**, capacitando o aluno a **diagnosticar, avaliar e propor soluções** para problemas econômicos, sociais e ambientais.
+
+---
+
+## História e Pensamento Econômico
+
+- Examina a economia como um **processo histórico e social**, enfatizando a **evolução das ideias econômicas**.  
+- Oferece disciplinas sobre:
+  - **História do pensamento econômico**  
+  - **Metodologia e epistemologia da economia**  
+  - **Debates contemporâneos sobre métodos e teorias**
+
+Dá destaque a **escolas específicas de pensamento**, como o **Institucionalismo Histórico**, que entende a economia como uma construção social e histórica.
+
+O objetivo é formar pesquisadores capazes de **compreender e dialogar criticamente com diferentes tradições econômicas**, contribuindo para os grandes debates teóricos e metodológicos da disciplina.
+
+---
+
+## Estrutura Curricular
+
+O Mestrado em Economia da **UFABC** tem **duração de dois anos** e exige, além da **defesa pública da dissertação**, o cumprimento de **126 créditos**.
+
+Esses créditos estão distribuídos da seguinte forma:
+
+---
+
+### Disciplinas obrigatórias — 48 créditos
+
+- Total de **quatro disciplinas obrigatórias** (12 créditos cada):  
+  1. **Macroeconomia A** ou **Macroeconomia B**  
+  2. **Microeconomia A** ou **Microeconomia B**  
+  3. **Métodos Quantitativos (Econometria I)**  
+  4. **Pluralismo em Economia**
+
+Essas disciplinas garantem a formação teórica e metodológica fundamental do programa, combinando **rigor analítico** e **abordagem plural**.
+
+---
+
+### Seminário de Tese — 6 créditos
+
+- Espaço destinado à **discussão do projeto de dissertação**, com orientação docente e acompanhamento contínuo da evolução da pesquisa.  
+- Objetiva **amadurecer a proposta teórica e empírica** antes da defesa final.
+
+---
+
+### Disciplinas optativas — 24 créditos
+
+- O estudante deve cursar **duas disciplinas optativas** (12 créditos cada) escolhidas entre os tópicos oferecidos pelo programa.  
+- As optativas permitem **aprofundar temas específicos**, como:
+  - Economia do Trabalho  
+  - Economia da Educação  
+  - Desenvolvimento Econômico  
+  - Finanças Públicas  
+  - Políticas Sociais  
+  - História do Pensamento Econômico
+
+---
+
+### Dissertação — 48 créditos
+
+- Envolve a **elaboração e defesa pública de um trabalho original de pesquisa**, sob orientação de um professor do programa.  
+- Representa o momento de **aplicar métodos, teorias e evidências empíricas** ao estudo de um problema econômico concreto.
+
+---
+
+### Organização quadrimestral
+
+- A UFABC adota o **sistema quadrimestral**, o que **permite concluir todas as disciplinas no primeiro ano** do curso.  
+- O **segundo ano** é dedicado à **pesquisa, redação e defesa da dissertação**.  
+
+O **calendário acadêmico da pós-graduação** está disponível no site oficial da UFABC.
+
+---
+
+## O processo de admissão
+
+- O ingresso ocorre **anualmente**, geralmente entre **setembro e dezembro**.  
+- Exige:  
+  - Diploma de graduação (em qualquer área)  
+  - Prova de conhecimentos (baseada na **ANPEC**)  
+- Há **bolsas CAPES** e **FAPESP**, conforme desempenho e disponibilidade.
+
+---
+
+## Por que fazer o mestrado na UFABC?
+
+- Universidade pública, gratuita e interdisciplinar.  
+- Ambiente de pesquisa inovador e inclusivo.  
+- Forte formação metodológica e aplicada.  
+- Professores engajados em temas sociais relevantes.  
+- Excelente colocação de egressos em doutorados, institutos de pesquisa e órgãos públicos.  
+
+---
+
+## Como a pesquisa pode contribuir
+
+- **Evidências científicas** orientam políticas públicas mais eficazes.  
+- A análise econômica ajuda a **avaliar resultados e aprimorar programas**.  
+- Exemplo: pesquisas sobre **educação, saúde, trabalho e pobreza** podem apoiar decisões governamentais e sociais.  
+
+> A formação em Economia é uma ferramenta poderosa para quem quer **transformar a realidade com base em dados e teoria**.
+
+---
+
+## Contato
+
+- Canal: [Rocha Data in R](https://www.youtube.com/@RochaDatainR)  
+- LinkedIn: [Fábio Rocha](https://www.linkedin.com/in/f%C3%A1bio-rocha/)  
+- X: [@fabio_rochav](https://x.com/fabio_rochav)  
+- Site pessoal: [fabio-rocha-economista](https://sites.google.com/view/fabio-rocha-economista)  
+- E-mail: rochadatainr@gmail.com  
+
+---
+
+## Obrigado!
+
+> “A boa economia é profundamente humana — porque trata, em última instância, de como as pessoas podem viver melhor.”
